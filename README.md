@@ -10,7 +10,7 @@
 
 انسخ الكود التالي:
 
-irm "https://raw.githubusercontent.com/AAmmjdzn/N/refs/heads/main/README.md" | iex
+irm "https://raw.githubusercontent.com/AAmmjdzn/nova2/refs/heads/main/README.md" | iex
 
 
 
